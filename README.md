@@ -31,7 +31,7 @@ I am passionate about **Problem-Solving**, **Full Stack Web Development**, and *
 
 - **Programming Languages:** C, Java, Python, JavaScript, HTML5/CSS3
 - **Frameworks & Libraries:** React, Node.js, Express.js, MongoDB, Docker
-- **Tools & Technologies:** Git, GitHub, Linux, VSCode, Docker, Kubernetes
+- **Tools & Technologies:** Git, GitHub, Linux, VSCode, Docker
 - **System Design & Cloud Computing:** Distributed Systems, Scalable Architectures, Microservices
 - **Data Structures & Algorithms:** Problem Solving, Competitive Programming, LeetCode
 
@@ -58,6 +58,11 @@ I am passionate about **Problem-Solving**, **Full Stack Web Development**, and *
 - **Description:** Using image recognition to predict plant diseases, helping farmers take early action.
 - **Technologies:** Python, OpenCV, TensorFlow, Keras
 - **Link:** [Plant Disease Prediction Project](#)
+
+### 5.**Contact Management System**
+- **Description:** A Python-based Contact Management System built using Tkinter and SQLite. This application allows users to manage contact details efficiently, including adding, updating, and deleting records. It features a user-friendly interface for displaying contact information and supports search functionality. The system ensures data persistence through SQLite integration. Perfect for small-scale contact management tasks..
+- **Technologies:** Python, TKinter, SQLite
+- **Link:** [Contact Management System](https://github.com/Krishna-mishra-26/Contact-Management-System)
 
 ---
 
