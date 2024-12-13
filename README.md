@@ -1,4 +1,5 @@
-# Krishna Mishra's GitHub Portfolio
+# ![Krishna-Mishra-](https://github.com/user-attachments/assets/4bd82968-4f32-402f-ae53-97863d4204fc)
+
 
 Welcome to my GitHub! I’m **Krishna Mishra**, a passionate Computer Science & Engineering student specializing in **Artificial Intelligence** and **Machine Learning** at the **University of Mumbai**. I’m dedicated to solving real-world problems through innovative, scalable, and efficient systems.
 
@@ -6,6 +7,7 @@ Welcome to my GitHub! I’m **Krishna Mishra**, a passionate Computer Science & 
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-Krishna--Mishra-orange?logo=leetcode)](https://leetcode.com/u/Krishna--Mishra/)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-Krishna--Mishra-blue?logo=link)](https://engineerkrishna.tech)
 
+![Krishna-Mishra-avatar](https://github.com/user-attachments/assets/bc62f6e2-9e34-411f-b187-c6bcfbdb794b)
 
 
 ---
@@ -45,8 +47,8 @@ I am passionate about **Problem-Solving**, **Full Stack Web Development**, and *
 - **Link:** [Tab Time Machine](https://github.com/Krishna-mishra-26/Tab-Time-Machine) 
 
 ### 2. **Weather Forecasting System**
-- **Description:** A machine learning-based project that predicts weather patterns using historical data.
-- **Technologies:** Python, Scikit-Learn, Pandas, Matplotlib
+- **Description:** A fully responsive website that provides real-time weather updates, including Air Quality Index, sunrise & sunset timings, humidity, pressure, "feels like" temperature, visibility, wind direction,                       and a 5-day forecast. It also features user location detection and displays the current date and day.
+- **Technologies:** HTML, CSS, JavaScript
 - **Link:** [Weather Forecasting Project](https://github.com/Krishna-mishra-26/Weather--Website)
 
 ### 3. **Spotify Clone**
