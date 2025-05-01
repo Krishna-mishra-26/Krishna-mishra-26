@@ -7,8 +7,6 @@ Welcome to my GitHub! I’m **Krishna Mishra**, a passionate Computer Science & 
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-Krishna--Mishra-orange?logo=leetcode)](https://leetcode.com/u/Krishna--Mishra/)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-Krishna--Mishra-blue?logo=link)](https://engineerkrishna.tech)
 
-![Krishna-Mishra-avatar](https://github.com/user-attachments/assets/bc62f6e2-9e34-411f-b187-c6bcfbdb794b)
-
 
 ---
 
@@ -39,41 +37,11 @@ I am passionate about **Problem-Solving**, **Full Stack Web Development**, and *
 
 ---
 
-## 🔧 Projects
-
-### 1. **Tab Time Machine**
-- **Description:** A tool to save, organize, and restore browser tabs from the past. This extension allows users to revisit browser tabs from previous days, restore accidentally closed tabs, and manage browsing history effectively. It simplifies workflow for users who need to juggle multiple tabs daily.
-- **Technologies Used:** JavaScript, HTML, CSS
-- **Link:** [Tab Time Machine](https://github.com/Krishna-mishra-26/Tab-Time-Machine) 
-
-### 2. **Weather Forecasting System**
-- **Description:** A fully responsive website that provides real-time weather updates, including Air Quality Index, sunrise & sunset timings, humidity, pressure, "feels like" temperature, visibility, wind direction,                       and a 5-day forecast. It also features user location detection and displays the current date and day.
-- **Technologies:** HTML, CSS, JavaScript
-- **Link:** [Weather Forecasting Project](https://github.com/Krishna-mishra-26/Weather--Website)
-
-### 3. **Spotify Clone**
-- **Description:** A fully functional music streaming platform clone built using the MERN stack.
-- **Technologies:** MongoDB, Express.js, React, Node.js
-- **Link:** [Spotify Clone](#)
-
-### 4. **Plant Disease Prediction**
-- **Description:** Using image recognition to predict plant diseases, helping farmers take early action.
-- **Technologies:** Python, OpenCV, TensorFlow, Keras
-- **Link:** [Plant Disease Prediction Project](#)
-
-### 5.**Contact Management System**
-- **Description:** A Python-based Contact Management System built using Tkinter and SQLite. This application allows users to manage contact details efficiently, including adding, updating, and deleting records. It features a user-friendly interface for displaying contact information and supports search functionality. The system ensures data persistence through SQLite integration. Perfect for small-scale contact management tasks..
-- **Technologies:** Python, TKinter, SQLite
-- **Link:** [Contact Management System](https://github.com/Krishna-mishra-26/Contact-Management-System)
-
----
-
 ## 🚀 Achievements
 
-- **Responsive Web Design Developer Certification** by freeCodeCamp.
-- Successfully completed **AI/ML Internship** at **Google**.
-- Cybersecurity Internship at **Palo Alto Networks**.
-- Network Security Internship at **Fortinet**.
+- **Technical Content Writer** at Atlan.
+- **CSE(AI & ML) Department Technical Head** at A. P. Shah Institute of Technology.
+- **Campus Ambassador - Student Executive** at Unstop
 - Actively solving problems on **LeetCode** with a current rating of **1547**.
 
 ---
@@ -121,7 +89,7 @@ I am constantly seeking new opportunities to apply my skills to impactful projec
 ## ⚡ Fun Facts
 
 - I enjoy tackling complex **algorithmic challenges** and learning new programming paradigms.
-- I'm currently working on improving my skills in **cloud-native technologies** and **system design**.
+- I'm currently working on improving my skills in **Cloud Technologies** and **system design**.
 - I am passionate about **web development** and creating interactive, user-friendly applications.
 
 ---
