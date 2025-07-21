@@ -1,101 +1,114 @@
-# ![Krishna-Mishra-](https://github.com/user-attachments/assets/4bd82968-4f32-402f-ae53-97863d4204fc)
-
-
-Welcome to my GitHub! I’m **Krishna Mishra**, a passionate Computer Science & Engineering student specializing in **Artificial Intelligence** and **Machine Learning** at the **University of Mumbai**. I’m dedicated to solving real-world problems through innovative, scalable, and efficient systems.
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Krishna--Mishra-blue?logo=linkedin)](https://www.linkedin.com/in/krishna--mishra/)
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-Krishna--Mishra-orange?logo=leetcode)](https://leetcode.com/u/Krishna--Mishra/)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Krishna--Mishra-blue?logo=link)](https://engineerkrishna.tech)
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=2e72d6&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Krishna+Mishra!;AI+%7C+ML+%7C+Full-Stack+Developer;Open+to+Collaboration+%F0%9F%94%A5" alt="Typing SVG">
+</p>
 
 ---
 
+<p align="center">
+  <b>B.Tech. Computer Science & Engineering (AI & ML)</b><br>
+  University of Mumbai &mdash; Class of 2026<br>
+  Mumbai, India 🇮🇳
+</p>
+<p align="center">
+   <a href="https://www.linkedin.com/in/krishna--mishra/"><img src="https://img.shields.io/badge/LinkedIn-Krishna--Mishra-blue?logo=linkedin"></a>
+   <a href="https://leetcode.com/u/Krishna--Mishra/"><img src="https://img.shields.io/badge/LeetCode-Krishna--Mishra-orange?logo=leetcode"></a>
+   <a href="https://engineerkrishna.tech"><img src="https://img.shields.io/badge/Portfolio-Krishna--Mishra-blue?logo=link"></a>
+</p>
 
+---
 
 ## 📚 About Me
 
-- **Full Name:** Krishna Mishra
-- **Current University:** University of Mumbai
-- **Degree:** B.Tech in Computer Science & Engineering
-- **Specialization:** Artificial Intelligence & Machine Learning
-- **Batch:** 2026
-- **CGPA:** 8.75
-- **LeetCode Rating:** 1547
+**Final-year engineering student** specializing in **Artificial Intelligence** and **Machine Learning**, experienced in **AI-driven automation** and **full stack web development**. Highly skilled in problem-solving, data structures & algorithms, and building scalable products. Currently seeking tech collaborations, internships, and full-time roles to shape impactful solutions.
 
-I am passionate about **Problem-Solving**, **Full Stack Web Development**, and **System Design**. My goal is to create applications that are not only intuitive but also efficient and scalable. I am particularly focused on building **Cloud-based solutions**, **Distributed systems**, and enhancing user experiences in **Machine Learning** and **AI**.
+- **CGPA**: 8.85 (till 6th semester)
+- **LeetCode Contest Rating**: 1547 (July 2025)
+- **Strongest domains**: Java, Python, JavaScript, System Design, AI/ML, Full Stack Development
 
 ---
-
 
 ## 🛠️ Technical Skills
 
-- **Programming Languages:** C, Java, Python, JavaScript, HTML5/CSS3
-- **Frameworks & Libraries:** React, Node.js, Express.js, MongoDB, Docker
-- **Tools & Technologies:** Git, GitHub, Linux, VSCode, Docker
-- **System Design & Cloud Computing:** Distributed Systems, Scalable Architectures, Microservices
-- **Data Structures & Algorithms:** Problem Solving, Competitive Programming, LeetCode
+- **Languages**: Java, Python, C, JavaScript, HTML5, CSS3, JSON, XML
+- **Frameworks/Libraries**: React, Node.js, Express.js, Redux, Bootstrap, Tailwind, Pandas, NumPy
+- **Databases**: MySQL, PostgreSQL, MongoDB
+- **Tools**: Git, GitHub, Linux, Docker, Postman, VSCode, Terminal
+- **Methodologies & Concepts**: SDLC, Agile (Scrum/Kanban), System Design (LLD), Microservices, OOP, Testing, Debugging, Deploying, Cloud (AWS)
+- **Core Specialization**: Data Structures, Algorithms, AI, ML, DL, NLP
 
 ---
 
-## 🚀 Achievements
+## 🚀 Featured Projects
 
-- **Technical Content Writer** at Atlan.
-- **CSE(AI & ML) Department Technical Head** at A. P. Shah Institute of Technology.
-- **Campus Ambassador - Student Executive** at Unstop
-- Actively solving problems on **LeetCode** with a current rating of **1547**.
+| **Project**        | **Overview**                                                                | **Tech Stack**                          |
+|--------------------|----------------------------------------------------------------------------|-----------------------------------------|
+| **URL Shortener**  | Serverless, analytics (passwords, QR, export, alias, high-scale IDs)        | Node.js, Express, MongoDB, chart.js     |
+| **Weather Wonders**| Real-time city weather & AQI (5-day/hourly, geolocation, >1000 cities)      | JavaScript, HTML5, CSS3, OpenWeather    |
+| **Insurance Agent**| GenAI-based insurance recommendation agent (95%+ accuracy, 150+ products)   | Python, Streamlit, Pandas, NumPy, Plotly|
+| **News Summarizer**| Multilingual (EN/HI/MR) news TTS aggregator w/ advanced summarization       | Python, Flask, JS, NLTK, Diffbot, pyttsx3|
 
----
-
-## 💬 Connect with Me
-
-- **Email:** [krishnamishrajii26@gmail.com](mailto:krishnamishrajii26@gmail.com)
-- **LinkedIn:** [Krishna Mishra](https://www.linkedin.com/in/krishna--mishra/)
-- **LeetCode Profile:** [Krishna Mishra](https://leetcode.com/u/Krishna--Mishra/)
-
-Feel free to reach out to me for collaborations, projects, or just a conversation about tech!
+*For more demos & code, see pinned repos or [my portfolio](https://engineerkrishna.tech).*
 
 ---
 
-## 🏆 Course Certifications
+## 🏆 Achievements & Experience
 
-Here are some of the certifications I've earned:
-
-- **JavaScript - DSA (FreeCodeCamp)** | Issued: Nov 29, 2024
-- **Responsive Web Design (FreeCodeCamp)** | Issued: Nov 29, 2024
-- **AWS Academy Cloud Foundations** | Issued: Oct 28, 2024
-- **AWS Academy Cloud Architecting** | Issued: Oct 31, 2024
-- **NVIDIA Generative AI Diffusion Model** | Issued: Oct 10, 2024
-- **CCNAv7: Introduction to Networks (Cisco)** | Issued: Oct 9, 2024
-- **Celonis Process Mining Fundamentals** | Issued: Oct 10, 2024
-- **Linux Essentials (Cisco)** | Issued: Apr 21, 2024
-- **Programming Essentials in Python (Cisco)** | Issued: Apr 10, 2024
-- **IIT BOM Python** | Issued: Apr 3, 2024
-- **Oracle - Database Foundations** | Issued: Mar 14, 2024
-- **Demystifying the Mini Project** | Issued: Jan 10, 2024
-- **IIT BOM - Java** | Issued: Oct 16, 2023
-- **CLA: Programming in C (Cisco)** | Issued: Aug 8, 2023
-- **Oracle - Java** | Issued: Sep 13, 2023
-- **National Science Olympiad Foundation** | Issued: Jan 10, 2015 | Rank: International 6230, Domestic 1384
-
+- **Technical Content Writer, Atlan** — Wrote in-depth technical articles for data professionals; improved technical SEO and Atlan’s content presence.
+- **Technical Head, AIML Student Association, APSIT** — Organized 10+ technical events, led workshops on trending technologies (2024–2025).
+- **Attendance Excellence Award**, APSIT (2023)
+- **National Science Olympiad**: Intl. rank 6230, Domestic rank 1384
 
 ---
 
-## 🔗 Let's Build the Future!
+## 🎓 Certifications
 
-I am constantly seeking new opportunities to apply my skills to impactful projects. Whether it's working with cutting-edge AI models, building robust and scalable web applications, or contributing to open-source projects, I’m eager to create and innovate.
+- **AWS Academy**: Cloud Foundations, Cloud Architecting
+- **Oracle**: Java Fundamentals, DBMS Fundamentals
+- **NVIDIA**: Generative AI (Diffusion Models)
+- **Cisco (CCNAv7)**: C, Python, Linux, Networking
+- **Celonis**: Process Mining
+- **MIT**: Computer Systems Security, Cryptography & Network Security
+- **Google**: Analytics, AI & ML
+- **FreeCodeCamp**: Responsive Web Design, JavaScript DSA
+- **Simplilearn**: DevOps 101
+
+<details>
+  <summary>Show full certifications</summary>
+  
+  - **Oracle**: Java Fundamentals & DBMS Fundamentals
+  - **AWS**: Cloud Foundations & Cloud Architecting
+  - **NVIDIA**: GenAI Diffusion Models
+  - **Cisco (CCNAv7)**: Programming (C, Python), Linux, Networking
+  - **Celonis**: Process Mining
+  - **MIT**: Computer Systems Security, Cryptography & Network Security
+  - **Simplilearn**: DevOps 101
+  - **FreeCodeCamp**: Responsive Web Design, JavaScript DSA
+  - **Google**: Analytics, AI & ML
+</details>
+
+---
+
+## 💬 Let’s Connect!
+
+- **Email**: [krishnamishrajii26@gmail.com](mailto:krishnamishrajii26@gmail.com)
+- **LinkedIn**: [Krishna Mishra](https://www.linkedin.com/in/krishna--mishra/)
+- **LeetCode**: [Profile](https://leetcode.com/u/Krishna--Mishra/)
+- **Portfolio**: [engineerkrishna.tech](https://engineerkrishna.tech)
+
+*Feel free to reach out for collaborations, projects, internships, or just to discuss tech!*
 
 ---
 
 ## ⚡ Fun Facts
 
-- I enjoy tackling complex **algorithmic challenges** and learning new programming paradigms.
-- I'm currently working on improving my skills in **Cloud Technologies** and **system design**.
-- I am passionate about **web development** and creating interactive, user-friendly applications.
+- Love tackling **algorithmic challenges** and learning new paradigms.
+- On a journey to master **cloud engineering**, **GenAI**, and advanced **system design**.
+- Advocate for open-source, tech communities, and peer mentorship.
 
 ---
 
 ## 📜 Contributions
 
-If you find any of my repositories helpful or interesting, feel free to ⭐️ or contribute. I'm always open to collaborating and learning from others.
+If you find my repositories helpful, ⭐️ or open a pull request. I am always open to collaborating, learning, and contributing to the wider tech community!
 
----
+<p align="center"><b>Let’s learn, build, and innovate together! 🚀</b></p>
