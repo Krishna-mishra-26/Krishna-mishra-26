@@ -12,7 +12,7 @@
 <p align="center">
    <a href="https://www.linkedin.com/in/krishna--mishra/"><img src="https://img.shields.io/badge/LinkedIn-Krishna--Mishra-blue?logo=linkedin"></a>
    <a href="https://leetcode.com/u/Krishna--Mishra/"><img src="https://img.shields.io/badge/LeetCode-Krishna--Mishra-orange?logo=leetcode"></a>
-   <a href="https://engineerkrishna.tech"><img src="https://img.shields.io/badge/Portfolio-Krishna--Mishra-blue?logo=link"></a>
+   <a href="https://krishna-mishra-26.github.io/Mishrajii/"><img src="https://img.shields.io/badge/Portfolio-Krishna--Mishra-blue?logo=link"></a>
 </p>
 
 ---
