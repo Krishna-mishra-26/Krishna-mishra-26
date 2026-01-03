@@ -47,7 +47,7 @@
 | **Insurance Agent**| GenAI-based insurance recommendation agent (95%+ accuracy, 150+ products)   | Python, Streamlit, Pandas, NumPy, Plotly|
 | **News Summarizer**| Multilingual (EN/HI/MR) news TTS aggregator w/ advanced summarization       | Python, Flask, JS, NLTK, Diffbot, pyttsx3|
 
-*For more demos & code, see pinned repos or [my portfolio](https://engineerkrishna.tech).*
+*For more demos & code, see pinned repos or [my portfolio](https://krishna-mishra-26.github.io/Mishrajii/).*
 
 ---
 
@@ -93,8 +93,7 @@
 - **Email**: [krishnamishrajii26@gmail.com](mailto:krishnamishrajii26@gmail.com)
 - **LinkedIn**: [Krishna Mishra](https://www.linkedin.com/in/krishna--mishra/)
 - **LeetCode**: [Profile](https://leetcode.com/u/Krishna--Mishra/)
-- **Portfolio**: [engineerkrishna.tech](https://engineerkrishna.tech)
-
+- **Portfolio**: [Mishrajii Portfolio](https://krishna-mishra-26.github.io/Mishrajii/)
 *Feel free to reach out for collaborations, projects, internships, or just to discuss tech!*
 
 ---
